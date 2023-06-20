@@ -1,3 +1,4 @@
 # ecommerse-app
 
-## npm run dev 
+### run app in local:  ```npm run dev```
+### site url: 
