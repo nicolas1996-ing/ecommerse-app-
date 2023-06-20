@@ -1,1 +1,3 @@
-# ecommerse-app-
+# ecommerse-app
+
+## npm run dev 
