@@ -1,10 +1,10 @@
 import { useRoutes, BrowserRouter } from "react-router-dom";
 import { Index } from "../home/Index";
 import { NoFound } from "../404/NoFound";
-import { MyAccount } from "../MyAccount/MyAccount";
-import { MyOrder } from "../MyOrder/MyOrder";
-import { MyOrders } from "../MyOrders/MyOrders";
-import { SignIn } from "../SignIn/SignIn";
+import { MyAccount } from "../myAccount/MyAccount";
+import { MyOrder } from "../myOrder/MyOrder";
+import { MyOrders } from "../myOrders/MyOrders";
+import { SignIn } from "../signIn/SignIn";
 import "./App.css";
 import { NavBar } from "../../components/NavBar";
 import { ShoppingCartContextProvider } from "../../context";
