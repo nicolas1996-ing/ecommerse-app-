@@ -1,7 +1,7 @@
 import { useContext } from "react";
 import { Layout } from "../../components/Layout";
 import { ShoppingCartContext } from "../../context";
-import { OrdersCar } from "../../components/ordersCar";
+import { OrdersCar } from "../../components/OrdersCar";
 import { Link } from "react-router-dom";
 
 export const MyOrders = () => {
